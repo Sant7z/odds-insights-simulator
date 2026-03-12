@@ -8,8 +8,6 @@ It also stores simulations locally and generates a visual coupon-style summary f
 
 Preview
 
-(adicione screenshots depois aqui)
-
 Example dashboard sections:
 
 Simulation summary
