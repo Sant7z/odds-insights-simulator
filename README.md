@@ -7,6 +7,19 @@ This project consumes real-time odds from an external API, processes the data to
 It also stores simulations locally and generates a visual coupon-style summary for presentation and analysis.
 
 Preview
+## Dashboard Preview
+
+### Main Dashboard
+
+![Dashboard](assets/dashboard.png)
+
+### Simulation Coupon
+
+![Coupon](assets/coupon.png)
+
+### Odds Distribution
+
+![Distribution](assets/distribution.png)
 
 Example dashboard sections:
 
